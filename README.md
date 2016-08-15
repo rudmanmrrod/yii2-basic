@@ -1,6 +1,13 @@
 # yii2-basic
 Yii 2 basic template with DB authentication
 
+# Migrations
+Inside de project, run the command:
+```
+php yii migrate
+```
+to create de user database
+
 Yii 2 Basic Project Template
 ============================
 
